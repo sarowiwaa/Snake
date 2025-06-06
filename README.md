@@ -14,7 +14,7 @@ A modern web remake of the classic **Nokia Snake** game, featuring authentic ret
 
 ## 📸 Preview
 
-![Snake Screenshot](preview.png)
+![Snake Screenshot](Screenshot_20250606-191112_1.jpg)
 
 ## 🕹️ How to Play
 
